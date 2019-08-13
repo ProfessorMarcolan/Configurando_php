@@ -107,7 +107,7 @@ Dentro do mariadb
 ```
 CREATE DATABASE new_database;
 use new_database;
-source db.sql
+source db.sql;
 ```
 
 
