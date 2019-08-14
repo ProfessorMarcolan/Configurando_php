@@ -5,12 +5,12 @@ $password = "";
 $database = "testing";
 $message = "";
 
-try{
+// try{
 
-    $connect = new
+//     $connect = new
 
 
-}
+// }
 
 
 ?>

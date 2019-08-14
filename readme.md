@@ -110,6 +110,12 @@ use new_database;
 source db.sql;
 ```
 
+# Modelar dados usando o workbench
+
+# Exportar banco de dados Mysql
+
+
+
 
 # Referencias 
 [1](https://stackoverflow.com/questions/1774238/mysql-import-on-windows)
